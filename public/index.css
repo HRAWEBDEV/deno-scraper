@@ -1,0 +1,14 @@
+*{ 
+ box-sizing: border-box;
+}
+
+.app-name { 
+ text-transform: capitalize;
+}
+
+
+.btn { 
+ padding: 0.5rem 1rem;
+ text-transform: capitalize;
+ border-radius: 0.2rem;
+}
